@@ -1,0 +1,10 @@
+.footer-images{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    background: #161619;
+    padding: 20px 0px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: 42px
+
+}

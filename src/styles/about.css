@@ -1,0 +1,18 @@
+.container{
+    padding: 0px 35px;
+  }  
+
+h1{
+    font-weight: 700;
+    font-size: 16px;
+    color: #F5F5F5;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+.container > p{
+    font-size: 10.24px;
+    line-height: 15.36px;
+    color: #DCDCDC;
+    word-wrap: break-word;
+}
